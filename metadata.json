@@ -1,0 +1,6 @@
+{
+  "name": "README Studio — Eedris & GitHub Profile Architect",
+  "description": "Generate, preview, and tailor GitHub Profile READMEs modeled after the zayennn GitHub Universe layout for Eedris (ddmdesign7) and Digital Manager Guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
